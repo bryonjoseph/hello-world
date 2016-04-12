@@ -1,2 +1,3 @@
 # hello-world
-git going
+hello my name is simon,
+and i like to make drawrings!
