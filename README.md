@@ -1,3 +1,2 @@
 # hello-world
-hello my name is simon,
-and i like to make drawrings!
+this is the 'hello world' with 'date' assignment attatched
