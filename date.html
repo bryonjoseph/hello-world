@@ -61,6 +61,11 @@ if (hours===0){
 if (today.getHours()<12){
     pm = "am ";
 }
-
+if (hours>12){
+    hours= hours-12;
+}
+document.getElementById('txt').innerHTML = dow[day] + monthName[month] + dom + "<br>" + year + "<br>" +  hours + ":" + min + ":" + sec + pm;
+setTimeout(time,500);
+}
 
 </script>
